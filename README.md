@@ -11,9 +11,3 @@ Este projeto utiliza um sensor ultrassônico para medir a distância até um obj
 - **Protoboard** (opcional)
 
 ![Componentes Necessários](docs/Sensor%20UltraSonic%20com%20RGB.png)
-
-## Diagrama de Ligação
-
-Aqui está um diagrama que mostra como conectar o sensor ultrassônico e o LED RGB ao Arduino:
-
-![Diagrama de Ligação](docs/Sensor%20UltraSonic%20com%20RGB.pdf)
